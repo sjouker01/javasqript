@@ -2,10 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "klacht",
+      "body": "melk is op"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "sjouker"
   }
 }
